@@ -1,2 +1,6 @@
 API/obj/*
 API/bin/*
+Core/obj/*
+Core/bin/*
+Infrastructure/obj/*
+Infrastructure/bin/*
